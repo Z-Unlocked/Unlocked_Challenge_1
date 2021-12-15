@@ -1,5 +1,8 @@
-# challenge1
-HP&amp;Unlocked Challenge 1 - Data Visualization - Special thanks to Andrada Olteanu for helping design this tutorial!
+# Z by HP Unlocked Challenge 1
+Unlocked Challenge 1 - Data Visualization - Special thanks to Andrada Olteanu for helping design this tutorial!
+
+## The Task
+The challenge is to analyze the ecological data that is included in the repo. Can you create something that is visually appealing and meaningful? We would love to see you tell your own story from the data here. Be sure to also share it on your favorite social platforms with #ZUnlocked
 
 ## The Data
 
@@ -70,6 +73,8 @@ Source: https://www.fao.org/faostat/en/#data
 	* Value: hectares of covered land
 	* Flag Description: "Calculated Data", "Data not available" and "Aggregate, may include official, semi-official, estimated or calculated data"
 
+## Where to Start
+We have provided some starter code and a full tutorial video on how to create some basic visuals using matplotlib, seaborn, and plotly. These are great starting points for you to expand upon. 
 
 ## Further Inspiration for your Data Visualization
 
