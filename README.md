@@ -5,7 +5,7 @@ Watch the tutorial video here: https://youtu.be/KotY4jlu9rc
 ## The Task
 The challenge is to analyze the ecological data that is included in the repo. Can you create something that is visually appealing and meaningful? We would love to see you tell your own story from the data here. Be sure to also share it on your favorite social platforms with #DataUnlockedWithZ
 
-# What is Unlocked?
+## What is Unlocked?
 Unlocked is an action-packed interactive film made for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.hp.com/us-en/workstations/industries/data-science/unlocked-challenge.html
 
 ## The Data
